@@ -3,13 +3,17 @@ US Healthcare Principles-explanations and illustrations
 
 ### Principles Overview
 
-1.  Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
-2. Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
-3. Markdown Extras : Support ToC (Table of Contents), Emoji, Task lists, @Links...;
-4. Compatible with all major browsers (IE8+), compatible Zepto.js and iPad;
-5. Support identification, interpretation, fliter of the HTML tags;
-6. Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
-7. Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
+1. Do No Harm
+2. Universal Primary Care
+3. Fear-Free, Timely Access to Care
+4. Patient Information is Private
+5. Protect Against Criminal Use of Health Data
+6. Patients Make Their Own Decisions
+7. Clear Consent
+8. Explainable Medical Costs
+9. Drug Possession is Legal
+10. One Data Schema
+11. Own Your Health Data
 
 ----
 ### 1. Do No Harm
