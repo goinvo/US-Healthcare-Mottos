@@ -14,7 +14,7 @@ US Healthcare Principles-explanations and illustrations
 ----
 ### 1. Do No Harm
 ###### I'm a sub-tag.
-![1_DoNoHarm](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/230be2b4-e385-49f0-8de0-6b09bb1c849a =250x250)
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/230be2b4-e385-49f0-8de0-6b09bb1c849a" width="150" height="280">
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
 ### 2. Universal Primary Care
