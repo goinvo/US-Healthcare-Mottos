@@ -63,7 +63,7 @@ This paragraph explains the principle.This paragraph explains the principle.This
 
 ### 8. Explainable Medical Costs
 ###### I'm a sub-tag.
-<img src="(https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/ccc53373-3cd0-42c4-bc06-62f29b55ac97" width="300" height="300">
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/ccc53373-3cd0-42c4-bc06-62f29b55ac97" width="300" height="300">
 
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
