@@ -20,54 +20,65 @@ This paragraph explains the principle.This paragraph explains the principle.This
 
 ### 2. Universal Primary Care
 ###### I'm a sub-tag.
-![2_UniversalPrimaryCare](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/b0da7d12-160d-406e-8c99-adc295f9f9ed)
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/b0da7d12-160d-406e-8c99-adc295f9f9ed" width="300" height="300">
+
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
 ### 3. Fear-Free, Timely Access to Care
 ###### I'm a sub-tag.
-![3_FearFreeTimelyAccessToCare](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/9ccfa188-5b14-4715-8632-59e74e002d31)
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/9ccfa188-5b14-4715-8632-59e74e002d31" width="300" height="300">
+
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
 ### 4. Patient Information is Private
 ###### I'm a sub-tag.
-![4_PatientInformationIsPrivate](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/e5ab3701-ce19-499e-ba2d-82969b317cd2)
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/e5ab3701-ce19-499e-ba2d-82969b317cd2" width="300" height="300">
+
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
 ### 5. Protect Against Criminal Use of Health Data
 ###### I'm a sub-tag.
-![5_ProtectAgainstCriminalizedUseOfHealthData](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/b3da524e-dfe4-4b7c-8a9d-f9c4c64cb9fe)
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/b3da524e-dfe4-4b7c-8a9d-f9c4c64cb9fe" width="300" height="300">
+
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
 ### 6. Patients Make Their Own Decisions
 ###### I'm a sub-tag.
-![6_PatientsMakeTheirOwnDecisions](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/b0b257da-ca62-4eab-846c-2536dbf14598)
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/b0b257da-ca62-4eab-846c-2536dbf14598" width="300" height="300">
+
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
 ### 7. Clear Consent
 ###### I'm a sub-tag.
-![7_ClearConsent](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/2bbf387c-5ced-49ba-b954-f6e3d5098286)
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/2bbf387c-5ced-49ba-b954-f6e3d5098286" width="300" height="300">
+
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
 ### 8. Explainable Medical Costs
 ###### I'm a sub-tag.
-![8_ExplainableMedicalCosts](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/8d319f4e-1f37-4215-86ec-99beef08ff39)
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/8d319f4e-1f37-4215-86ec-99beef08ff39" width="300" height="300">
+
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
 ### 9. Drug Possession is Legal
 ###### I'm a sub-tag.
-![9_DrugPossessionIsLegal_A](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/6052e1a4-05fa-4d49-8a40-a17cc11612ec)
-![9_DrugPossessionIsLegal_B](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/63ac8b0b-1245-40c6-a3de-bbd739c125ed)
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/6052e1a4-05fa-4d49-8a40-a17cc11612ec" width="300" height="300">
+
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/63ac8b0b-1245-40c6-a3de-bbd739c125ed" width="300" height="300">
+
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
 ### 10. One Data Schema
 ###### I'm a sub-tag.
-![10_OneDataSchema_Small](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/ff8f5ce4-8a4d-45d1-8d2d-79e501227776)
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/ff8f5ce4-8a4d-45d1-8d2d-79e501227776" width="300" height="300">
+
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
 
 ### 11. Own Your Health Data
 ###### I'm a sub-tag.
-![11_OwnYourHealthData](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/0f24f932-6026-46bb-a708-bdd8a17fc4a8)
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/0f24f932-6026-46bb-a708-bdd8a17fc4a8" width="300" height="300">
+
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
 ----
