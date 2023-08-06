@@ -86,6 +86,8 @@ This paragraph explains the principle.This paragraph explains the principle.This
 ###### I'm a sub-tag.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/33bbde58-ac1c-41b9-adcc-7db10ab20fb0" width="300" height="300">
 
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/138a3fba-07c4-4d80-b0a8-ecef6bfb6949" width="300" height="300">
+
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
 ----
