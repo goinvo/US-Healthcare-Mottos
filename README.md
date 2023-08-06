@@ -77,7 +77,7 @@ This paragraph explains the principle.This paragraph explains the principle.This
 
 ### 10. One Data Schema
 ###### I'm a sub-tag.
-<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/85d95cb7-73b2-4a7a-b407-2dbbd06c8885" width="300" height="300">
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/ff8f5ce4-8a4d-45d1-8d2d-79e501227776" width="300" height="300">
 
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
