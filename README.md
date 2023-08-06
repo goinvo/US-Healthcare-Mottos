@@ -1,5 +1,6 @@
 # US Healthcare Principles
 US Healthcare Principles-explanations and illustrations
+Core document and future URL: http://healthcareprinciples.org
 
 ### Principles Overview
 
@@ -20,13 +21,15 @@ US Healthcare Principles-explanations and illustrations
 ###### I'm a sub-tag.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/230be2b4-e385-49f0-8de0-6b09bb1c849a" width="300" height="300">
 
-This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
+Primum non nocere (First, do no harm): This is a key principle in medical ethics and serves as a reminder to healthcare professionals that their primary responsibility is to avoid causing harm to patients.
 
 ### 2. Universal Primary Care
-###### I'm a sub-tag.
+###### You step on US soil, you get care.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/b0da7d12-160d-406e-8c99-adc295f9f9ed" width="300" height="300">
 
-This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
+All patients have access to care. Healthcare is universal and a right.
+"Everybody in, nobody out." - Right Care Alliance
+
 
 ### 3. Fear-Free, Timely Access to Care
 ###### I'm a sub-tag.
