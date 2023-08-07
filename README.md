@@ -1,4 +1,4 @@
-![image](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/800bad9a-899e-42e9-bfe1-8f9274664389)![image](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/28eb46b0-870a-47e3-9d88-baced0fca5d6)# US Healthcare Principles
+# US Healthcare Principles
 US Healthcare Principles-explanations and illustrations
 Core document and future URL: http://healthcareprinciples.org
 
