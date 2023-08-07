@@ -38,19 +38,19 @@ All patients have access to care. Healthcare is universal and a right.
 Patients might hesitate to seek care due to concerns about diagnoses, treatments, or potential costs. Therefore, timely access to care is critical for preventing the worsening of health conditions, reducing the risk of complications, and ensuring optimal outcomes. We also demand a fear-free environment involves fostering open communication, providing clear information, and addressing patient concerns with empathy. Healthcare providers strive to establish trust and rapport with patients, ensuring that they feel respected, heard, and understood throughout their healthcare journey.
 
 ### 4. Patient Information is Private
-###### I'm a sub-tag.
+###### Safeguard the confidentiality of patients' personal and medical information.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/528d77b0-5d34-4142-a618-5abc10e0fc0a" width="300" height="300">
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/738db51f-28fa-475f-85b1-0a2f7dd7d7ef" width="300" height="300">
 
-Focusing on the fundamental importance of safeguarding the confidentiality of patients' personal and medical information, we need to ensure that all sensitive data related to a patient's health, medical history, treatments, and other personal details remain confidential and protected from unauthorized access, disclosure, or use. It entails implementing strict privacy measures, secure data storage, and controlled access to medical records to prevent breaches and maintain patient trust. Respecting the privacy of patient information is not only a legal and ethical responsibility but also essential for preserving patient autonomy, fostering open communication between patients and healthcare providers, and upholding the integrity of the healthcare system.
+All sensitive data related to a patient's health, medical history, treatments, and other personal details remain confidential and protected from unauthorized access, disclosure, or use. It entails implementing strict privacy measures, secure data storage, and controlled access to medical records to prevent breaches and maintain patient trust. Respecting the privacy of patient information is not only a legal and ethical responsibility but also essential for preserving patient autonomy, fostering open communication between patients and healthcare providers, and upholding the integrity of the healthcare system.
 
 ### 5. Protect Against Criminal Use of Health Data
-###### I'm a sub-tag.
+###### Contribute to a secure and trusted healthcare environment.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/e34ab4ba-0015-4be4-a2af-8574eb3c0c7d" width="300" height="300">
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/40c15559-1dbc-421c-bbaf-40adf669912f" width="300" height="300">
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/93cf81e5-e8b1-4606-aad8-b797e9590c7b" width="300" height="300">
 
-We insist on safeguarding sensitive health information from unauthorized access, use, or exploitation for criminal purposes. Robust data security measures to prevent hacking, identity theft, fraud, and other illicit activities involving healthcare data are crucial. We advocate for implementing strong encryption, authentication protocols, and stringent access controls to ensure that only authorized individuals can access and manipulate health-related information. By prioritizing the protection of health data against criminal use, this principle aims to preserve patient privacy, maintain data integrity, and prevent potential harm arising from unauthorized access, contributing to a secure and trusted healthcare environment.
+According to HIPAA (Health Insurance Portability and Accountability Act), covered entities and their business associates are responsible for protecting against the criminal use of health data. Covered entities include healthcare providers, health plans, and healthcare clearinghouses. Business associates are individuals or entities that perform services on behalf of covered entities and involve the use or disclosure of protected health information (PHI). These entities are required to implement appropriate safeguards to ensure the confidentiality, integrity, and availability of PHI, protecting it from unauthorized access, use, or disclosure for criminal purposes. This includes measures such as data encryption, access controls, security training, and regular risk assessments.
 
 ### 6. Patients Make Their Own Decisions
 ###### Nothing About the Patient, Without the Patient.
@@ -72,15 +72,15 @@ We mandate transparent communication of all pertinent medical information to pat
 We advocate for transparency and clarity in the pricing of medical services and treatments.Patients should have a clear and easily understandable breakdown of medical costs, encompassing procedures, medications, consultations, and other related expenses. We must acknowledge the importance of providing patients with comprehensive information about the financial aspects of their healthcare, allowing them to make informed decisions, avoid "surprises", and participate in discussions about cost-effective treatments, ultimately promoting trust and accountability in the healthcare system.
 
 ### 9. Drug Possession is Legal
-###### I'm a sub-tag.
+###### Individuals ARE allowed to possess certain drugs, often for personal use, without facing legal repercussions.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/73e87050-a45c-48eb-a6d7-03d41e13aaf1" width="300" height="300">
 
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/85d95cb7-73b2-4a7a-b407-2dbbd06c8885" width="300" height="300">
 
-Individuals ARE allowed to possess certain drugs, often for personal use, without facing legal repercussions. This approach recognizes that the criminalization of drug possession can deter individuals from seeking necessary medical assistance and rehabilitation. By decriminalizing drug possession, we aim to shift the focus from punitive measures to a more compassionate and health-oriented approach, enabling individuals struggling with substance use disorders to access treatment, support, and education rather than punishment, fostering a more holistic and humane approach to addressing drug-related issues.
+This approach recognizes that the criminalization of drug possession can deter individuals from seeking necessary medical assistance and rehabilitation. By decriminalizing drug possession, we aim to shift the focus from punitive measures to a more compassionate and health-oriented approach, enabling individuals struggling with substance use disorders to access treatment, support, and education rather than punishment, fostering a more holistic and humane approach to addressing drug-related issues.
 
 ### 10. One Data Schema
-###### A core, standard data representation of a patient
+###### A core, standard data representation of a patient.
 
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/35a4170c-3cdf-4725-9b7c-f03c7b62b4b8" width="300" height="300">
 
