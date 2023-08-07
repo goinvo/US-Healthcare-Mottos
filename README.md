@@ -89,12 +89,12 @@ We demand standardizing the structure and format of healthcare data across vario
 
 
 ### 11. Patient Data Ownership
-###### Own Your Health Data.
+###### YOU own your Health Data.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/33bbde58-ac1c-41b9-adcc-7db10ab20fb0" width="300" height="300">
 
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/138a3fba-07c4-4d80-b0a8-ecef6bfb6949" width="300" height="300">
 
-Patients own their health data, and co-own it with providers when created together. Patient data is transportable between AI services. And the pejorative use of patient health data is criminalized.
+Patients have the ultimate control and ownership over their personal health data. Individuals have the right to access, manage, and make decisions regarding the use and sharing of their own health information. Covered entities and their business associates places patients at the center of their healthcare journey, enabling them to grant or withhold consent for the collection, storage, and dissemination of their data. This principle aligns with the notion that patients should be active participants in their care and have the authority to determine how their health information is utilized, while also recognizing the responsibility of healthcare providers to protect and secure this data in accordance with legal and ethical standards.
 
 ----
 
