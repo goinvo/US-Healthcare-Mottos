@@ -1,4 +1,4 @@
-# US Healthcare Principles
+![image](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/800bad9a-899e-42e9-bfe1-8f9274664389)![image](https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/28eb46b0-870a-47e3-9d88-baced0fca5d6)# US Healthcare Principles
 US Healthcare Principles-explanations and illustrations
 Core document and future URL: http://healthcareprinciples.org
 
@@ -18,7 +18,7 @@ Core document and future URL: http://healthcareprinciples.org
 
 ----
 ### 1. Do No Harm
-###### I'm a sub-tag.
+###### Clinicians and digital services avoid causing harm to patients.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/a12acdb6-36c6-4d2b-bd9c-5d3d73202bd2" width="300" height="300">
 
 Primum non nocere (First, do no harm): This is a key principle in medical ethics and serves as a reminder to healthcare professionals that their primary responsibility is to avoid causing harm to patients.
@@ -32,7 +32,7 @@ All patients have access to care. Healthcare is universal and a right.
 
 
 ### 3. Fear-Free, Timely Access to Care
-###### I'm a sub-tag.
+###### Readily available, easily accessible, zero distress.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/a925668b-d87d-4c25-97ec-e0a7e7542489" width="300" height="300">
 
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
@@ -50,19 +50,20 @@ This paragraph explains the principle.This paragraph explains the principle.This
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
 ### 6. Patients Make Their Own Decisions
-###### I'm a sub-tag.
+###### Nothing About the Patient, Without the Patient.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/4606d781-8b3a-483d-aec9-3742df81558f" width="300" height="300">
 
-This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
+Providers act in the best interest of the patient. Patient information is private (providers have a legal and ethical obligation to maintain the privacy of their patients' information).
 
 ### 7. Clear Consent
-###### I'm a sub-tag.
+###### Patients are presented and know the nature, risk, and benefits of the proposed care.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/d53239f0-85d2-447c-80e7-f5f44b8595fc" width="300" height="300">
 
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
 ### 8. Explainable Medical Costs
-###### I'm a sub-tag.
+###### Costs are known before any service is performed.
+
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/ccc53373-3cd0-42c4-bc06-62f29b55ac97" width="300" height="300">
 
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
@@ -76,19 +77,20 @@ This paragraph explains the principle.This paragraph explains the principle.This
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
 ### 10. One Data Schema
-###### I'm a sub-tag.
+###### A core, standard data representation of a patient
+
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/35a4170c-3cdf-4725-9b7c-f03c7b62b4b8" width="300" height="300">
 
-This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
+National data definitions, with rotating governance, drive patient care.
 
 
-### 11. Own Your Health Data
-###### I'm a sub-tag.
+### 11. Patient Data Ownership
+###### Own Your Health Data.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/33bbde58-ac1c-41b9-adcc-7db10ab20fb0" width="300" height="300">
 
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/138a3fba-07c4-4d80-b0a8-ecef6bfb6949" width="300" height="300">
 
-This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
+Patients own their health data, and co-own it with providers when created together. Patient data is transportable between AI services. And the pejorative use of patient health data is criminalized..
 
 ----
 
