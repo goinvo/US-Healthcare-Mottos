@@ -40,6 +40,7 @@ Patients might hesitate to seek care due to concerns about diagnoses, treatments
 ### 4. Patient Information is Private
 ###### I'm a sub-tag.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/528d77b0-5d34-4142-a618-5abc10e0fc0a" width="300" height="300">
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/738db51f-28fa-475f-85b1-0a2f7dd7d7ef" width="300" height="300">
 
 Focusing on the fundamental importance of safeguarding the confidentiality of patients' personal and medical information, we need to ensure that all sensitive data related to a patient's health, medical history, treatments, and other personal details remain confidential and protected from unauthorized access, disclosure, or use. It entails implementing strict privacy measures, secure data storage, and controlled access to medical records to prevent breaches and maintain patient trust. Respecting the privacy of patient information is not only a legal and ethical responsibility but also essential for preserving patient autonomy, fostering open communication between patients and healthcare providers, and upholding the integrity of the healthcare system.
 
