@@ -33,7 +33,7 @@ All patients have access to care. Healthcare is universal and a right.
 
 ### 3. Fear-Free, Timely Access to Care
 ###### Readily available, easily accessible, zero distress.
-<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/a925668b-d87d-4c25-97ec-e0a7e7542489" width="300" height="300">
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/0170a2e8-4cda-48ed-9959-2d0c1a9ae35d" width="300" height="300">
 
 This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.This paragraph explains the principle.
 
