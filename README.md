@@ -46,6 +46,8 @@ Focusing on the fundamental importance of safeguarding the confidentiality of pa
 ### 5. Protect Against Criminal Use of Health Data
 ###### I'm a sub-tag.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/e34ab4ba-0015-4be4-a2af-8574eb3c0c7d" width="300" height="300">
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/40c15559-1dbc-421c-bbaf-40adf669912f" width="300" height="300">
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/93cf81e5-e8b1-4606-aad8-b797e9590c7b" width="300" height="300">
 
 We insist on safeguarding sensitive health information from unauthorized access, use, or exploitation for criminal purposes. Robust data security measures to prevent hacking, identity theft, fraud, and other illicit activities involving healthcare data are crucial. We advocate for implementing strong encryption, authentication protocols, and stringent access controls to ensure that only authorized individuals can access and manipulate health-related information. By prioritizing the protection of health data against criminal use, this principle aims to preserve patient privacy, maintain data integrity, and prevent potential harm arising from unauthorized access, contributing to a secure and trusted healthcare environment.
 
