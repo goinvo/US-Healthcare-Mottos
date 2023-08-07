@@ -2,6 +2,10 @@
 US Healthcare Principles-explanations and illustrations
 Core document and future URL: http://healthcareprinciples.org
 
+Chat GPT more detailed explainations of principles URL: https://www.dropbox.com/scl/fi/icivhlm5iczvonhewpa6n/US-Healthcare-Principles-Texts.gdoc?rlkey=o60y3l4ik3az97vl64bg37s8w&dl=0
+
+Illustration process Figma Page URL: https://www.figma.com/file/FTTDzGmJzce4HFXebroBZP/Carina-%40-GoInvo?type=design&node-id=1%3A3&mode=design&t=XTl47wsOfO7EFAw4-1
+
 ### Principles Overview
 
 1. Do No Harm
@@ -35,14 +39,14 @@ All patients have access to care. Healthcare is universal and a right.
 ###### Readily available, easily accessible, zero distress.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/0170a2e8-4cda-48ed-9959-2d0c1a9ae35d" width="300" height="300">
 
-Patients might hesitate to seek care due to concerns about diagnoses, treatments, or potential costs. Therefore, timely access to care is critical for preventing the worsening of health conditions, reducing the risk of complications, and ensuring optimal outcomes. We also demand a fear-free environment involves fostering open communication, providing clear information, and addressing patient concerns with empathy. Healthcare providers strive to establish trust and rapport with patients, ensuring that they feel respected, heard, and understood throughout their healthcare journey.
+Timely access to care is critical for preventing the worsening of health conditions, reducing the risk of complications, and ensuring optimal outcomes. We also demand a fear-free environment involves fostering open communication, providing clear information, and addressing patient concerns with empathy.
 
 ### 4. Patient Information is Private
 ###### Safeguard the confidentiality of patients' personal and medical information.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/528d77b0-5d34-4142-a618-5abc10e0fc0a" width="300" height="300">
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/738db51f-28fa-475f-85b1-0a2f7dd7d7ef" width="300" height="300">
 
-All sensitive data related to a patient's health, medical history, treatments, and other personal details remain confidential and protected from unauthorized access, disclosure, or use. It entails implementing strict privacy measures, secure data storage, and controlled access to medical records to prevent breaches and maintain patient trust. Respecting the privacy of patient information is not only a legal and ethical responsibility but also essential for preserving patient autonomy, fostering open communication between patients and healthcare providers, and upholding the integrity of the healthcare system.
+All sensitive data related to a patient's health, medical history, treatments, and other personal details remain confidential and protected from unauthorized access, disclosure, or use. It entails implementing strict privacy measures, secure data storage, and controlled access to medical records to prevent breaches and maintain patient trust. 
 
 ### 5. Protect Against Criminal Use of Health Data
 ###### Contribute to a secure and trusted healthcare environment.
@@ -50,7 +54,7 @@ All sensitive data related to a patient's health, medical history, treatments, a
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/40c15559-1dbc-421c-bbaf-40adf669912f" width="300" height="300">
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/93cf81e5-e8b1-4606-aad8-b797e9590c7b" width="300" height="300">
 
-According to HIPAA (Health Insurance Portability and Accountability Act), covered entities and their business associates are responsible for protecting against the criminal use of health data. Covered entities include healthcare providers, health plans, and healthcare clearinghouses. Business associates are individuals or entities that perform services on behalf of covered entities and involve the use or disclosure of protected health information (PHI). These entities are required to implement appropriate safeguards to ensure the confidentiality, integrity, and availability of PHI, protecting it from unauthorized access, use, or disclosure for criminal purposes. This includes measures such as data encryption, access controls, security training, and regular risk assessments.
+According to HIPAA (Health Insurance Portability and Accountability Act), covered entities and their business associates are responsible for implementing appropriate safeguards to ensure the confidentiality, integrity, and availability of PHI, protecting it from unauthorized access, use, or disclosure for criminal purposes. This includes measures such as data encryption, access controls, security training, and regular risk assessments.
 
 ### 6. Patients Make Their Own Decisions
 ###### Nothing About the Patient, Without the Patient.
@@ -62,14 +66,14 @@ Providers act in the best interest of the patient. Patient information is privat
 ###### Patients are presented and know the nature, risk, and benefits of the proposed care.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/d53239f0-85d2-447c-80e7-f5f44b8595fc" width="300" height="300">
 
-We mandate transparent communication of all pertinent medical information to patients, empowering them to make informed decisions about their healthcare. We underscore voluntary agreement free from coercion, necessitates comprehensible presentation of medical details, and require thorough documentation of the consent process. We also require assessing patients' capacity for decision-making and respecting their autonomy to accept or decline treatments in line with their values and beliefs, thereby fostering trust, shared decision-making, and respect between patients and healthcare providers.
+We mandate transparent communication of all pertinent medical information to patients, empowering them to make informed decisions about their healthcare. We underscore voluntary agreement free from coercion, necessitate comprehensible presentation of medical details, and require thorough documentation of the consent process. 
 
 ### 8. Explainable Medical Costs
 ###### Costs are known before any service is performed.
 
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/ccc53373-3cd0-42c4-bc06-62f29b55ac97" width="300" height="300">
 
-We advocate for transparency and clarity in the pricing of medical services and treatments.Patients should have a clear and easily understandable breakdown of medical costs, encompassing procedures, medications, consultations, and other related expenses. We must acknowledge the importance of providing patients with comprehensive information about the financial aspects of their healthcare, allowing them to make informed decisions, avoid "surprises", and participate in discussions about cost-effective treatments, ultimately promoting trust and accountability in the healthcare system.
+We advocate for transparency and clarity in the pricing of medical services and treatments.Patients should have a easily understandable breakdown of medical costs, encompassing procedures, medications, consultations, and other related expenses. We must allow patients to make informed decisions, avoid "surprises", and participate in discussions about cost-effective treatments.
 
 ### 9. Drug Possession is Legal
 ###### Individuals ARE allowed to possess certain drugs, often for personal use, without facing legal repercussions.
@@ -84,19 +88,20 @@ This approach recognizes that the criminalization of drug possession can deter i
 
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/35a4170c-3cdf-4725-9b7c-f03c7b62b4b8" width="300" height="300">
 
-National data definitions, with rotating governance, drive patient care.
-We demand standardizing the structure and format of healthcare data across various systems and platforms. By adopting a uniform data schema, healthcare organizations, providers, and systems can ensure seamless interoperability, accurate data sharing, and improved communication between different entities within the healthcare ecosystem. This standardization enhances the quality of care, reduces errors, facilitates research, and supports more efficient healthcare operations, ultimately benefiting patients and the healthcare industry as a whole.
+We demand standardizing the structure and format of healthcare data across various systems and platforms. By adopting a uniform data schema, healthcare organizations, providers, and systems can ensure seamless interoperability, accurate data sharing, and improved communication between different entities within the healthcare ecosystem. 
 
 
 ### 11. Patient Data Ownership
-###### YOU own your Health Data.
+###### Patients have the ultimate control and ownership over their personal health data. 
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/33bbde58-ac1c-41b9-adcc-7db10ab20fb0" width="300" height="300">
 
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/138a3fba-07c4-4d80-b0a8-ecef6bfb6949" width="300" height="300">
 
-Patients have the ultimate control and ownership over their personal health data. Individuals have the right to access, manage, and make decisions regarding the use and sharing of their own health information. Covered entities and their business associates places patients at the center of their healthcare journey, enabling them to grant or withhold consent for the collection, storage, and dissemination of their data. This principle aligns with the notion that patients should be active participants in their care and have the authority to determine how their health information is utilized, while also recognizing the responsibility of healthcare providers to protect and secure this data in accordance with legal and ethical standards.
+Individuals have the right to access, manage, and make decisions regarding the use and sharing of their own health information. Covered entities and their business associates places patients at the center of their healthcare journey, enabling them to grant or withhold consent for the collection, storage, and dissemination of their data.
+
+----
+### Team
 
 ----
 
-
-###End
+### End
