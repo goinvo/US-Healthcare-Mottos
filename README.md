@@ -86,7 +86,7 @@ This approach recognizes that the criminalization of drug possession can deter i
 ### 10. One Data Schema
 ###### A core, standard data representation of a patient.
 
-<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/35a4170c-3cdf-4725-9b7c-f03c7b62b4b8" width="300" height="300">
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/98188bd3-74d0-43d1-a341-73ac1b9dbc56" width="300" height="300">
 
 We demand standardizing the structure and format of healthcare data across various systems and platforms. By adopting a uniform data schema, healthcare organizations, providers, and systems can ensure seamless interoperability, accurate data sharing, and improved communication between different entities within the healthcare ecosystem. 
 
