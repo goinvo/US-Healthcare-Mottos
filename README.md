@@ -43,7 +43,7 @@ Timely access to care is critical for preventing the worsening of health conditi
 
 ### 4. Patient Information is Private
 ###### Safeguard the confidentiality of patients' personal and medical information.
-<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/528d77b0-5d34-4142-a618-5abc10e0fc0a" width="300" height="300">
+
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/738db51f-28fa-475f-85b1-0a2f7dd7d7ef" width="300" height="300">
 
 All sensitive data related to a patient's health, medical history, treatments, and other personal details remain confidential and protected from unauthorized access, disclosure, or use. It entails implementing strict privacy measures, secure data storage, and controlled access to medical records to prevent breaches and maintain patient trust. 
@@ -51,8 +51,6 @@ All sensitive data related to a patient's health, medical history, treatments, a
 ### 5. Protect Against Criminal Use of Health Data
 ###### Contribute to a secure and trusted healthcare environment.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/e34ab4ba-0015-4be4-a2af-8574eb3c0c7d" width="300" height="300">
-<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/40c15559-1dbc-421c-bbaf-40adf669912f" width="300" height="300">
-<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/93cf81e5-e8b1-4606-aad8-b797e9590c7b" width="300" height="300">
 
 According to HIPAA (Health Insurance Portability and Accountability Act), covered entities and their business associates are responsible for implementing appropriate safeguards to ensure the confidentiality, integrity, and availability of PHI, protecting it from unauthorized access, use, or disclosure for criminal purposes. This includes measures such as data encryption, access controls, security training, and regular risk assessments.
 
@@ -79,8 +77,6 @@ We advocate for transparency and clarity in the pricing of medical services and 
 ###### Individuals ARE allowed to possess certain drugs, often for personal use, without facing legal repercussions.
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/73e87050-a45c-48eb-a6d7-03d41e13aaf1" width="300" height="300">
 
-<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/85d95cb7-73b2-4a7a-b407-2dbbd06c8885" width="300" height="300">
-
 This approach recognizes that the criminalization of drug possession can deter individuals from seeking necessary medical assistance and rehabilitation. By decriminalizing drug possession, we aim to shift the focus from punitive measures to a more compassionate and health-oriented approach, enabling individuals struggling with substance use disorders to access treatment, support, and education rather than punishment, fostering a more holistic and humane approach to addressing drug-related issues.
 
 ### 10. One Data Schema
@@ -93,7 +89,6 @@ We demand standardizing the structure and format of healthcare data across vario
 
 ### 11. Patient Data Ownership
 ###### Patients have the ultimate control and ownership over their personal health data. 
-<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/33bbde58-ac1c-41b9-adcc-7db10ab20fb0" width="300" height="300">
 
 <img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/138a3fba-07c4-4d80-b0a8-ecef6bfb6949" width="300" height="300">
 
