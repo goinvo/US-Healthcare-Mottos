@@ -1,6 +1,6 @@
 # US Healthcare Principles
 US Healthcare Principles-explanations and illustrations
-Core document and future URL: http://healthcareprinciples.org
+Core document and future URL: https://www.healthcareprinciples.org
 
 Chat GPT more detailed explainations of principles URL: https://www.dropbox.com/scl/fi/icivhlm5iczvonhewpa6n/US-Healthcare-Principles-Texts.gdoc?rlkey=o60y3l4ik3az97vl64bg37s8w&dl=0
 
