@@ -29,7 +29,7 @@ Primum non nocere (First, do no harm): This is a key principle in medical ethics
 
 ### 2. Universal Primary Care
 ###### You step on US soil, you get care.
-<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/1e16a2ea-a840-4388-80e1-538de93998ba" width="300" height="300">
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/f06db060-e456-449a-a66a-04f32c7df96b" width="300" height="300">
 
 All patients have access to care. Healthcare is universal and a right.
 "Everybody in, nobody out." - Right Care Alliance
