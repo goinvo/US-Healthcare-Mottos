@@ -23,13 +23,13 @@ Illustration process Figma Page URL: https://www.figma.com/file/FTTDzGmJzce4HFXe
 ----
 ### 1. Do No Harm
 ###### Clinicians and digital services avoid causing harm to patients.
-<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/a12acdb6-36c6-4d2b-bd9c-5d3d73202bd2" width="300" height="300">
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/172ee6ac-b293-4f11-b48d-9663e7ce3dd6" width="300" height="300">
 
 Primum non nocere (First, do no harm): This is a key principle in medical ethics and serves as a reminder to healthcare professionals that their primary responsibility is to avoid causing harm to patients.
 
 ### 2. Universal Primary Care
 ###### You step on US soil, you get care.
-<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/b0da7d12-160d-406e-8c99-adc295f9f9ed" width="300" height="300">
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/1e16a2ea-a840-4388-80e1-538de93998ba" width="300" height="300">
 
 All patients have access to care. Healthcare is universal and a right.
 "Everybody in, nobody out." - Right Care Alliance
@@ -64,7 +64,7 @@ Providers act in the best interest of the patient. Patient information is privat
 
 ### 7. Clear Consent
 ###### Patients are presented and know the nature, risk, and benefits of the proposed care.
-<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/d53239f0-85d2-447c-80e7-f5f44b8595fc" width="300" height="300">
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/605f2e14-9fb4-4b50-af1d-12a27e001b5e" width="300" height="300">
 
 We mandate transparent communication of all pertinent medical information to patients, empowering them to make informed decisions about their healthcare. We underscore voluntary agreement free from coercion, necessitate comprehensible presentation of medical details, and require thorough documentation of the consent process. 
 
