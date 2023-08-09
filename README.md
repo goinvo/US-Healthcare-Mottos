@@ -37,7 +37,7 @@ All patients have access to care. Healthcare is universal and a right.
 
 ### 3. Fear-Free, Timely Access to Care
 ###### Readily available, easily accessible, zero distress.
-<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/0170a2e8-4cda-48ed-9959-2d0c1a9ae35d" width="300" height="300">
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/7b49a38a-07c6-4dce-a885-fc953f8dcf7d" width="300" height="300">
 
 Timely access to care is critical for preventing the worsening of health conditions, reducing the risk of complications, and ensuring optimal outcomes. We also demand a fear-free environment involves fostering open communication, providing clear information, and addressing patient concerns with empathy.
 
@@ -86,7 +86,7 @@ This approach recognizes that the criminalization of drug possession can deter i
 ### 10. One Data Schema
 ###### A core, standard data representation of a patient.
 
-<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/98188bd3-74d0-43d1-a341-73ac1b9dbc56" width="300" height="300">
+<img src="https://github.com/goinvo/US-Healthcare-Principles/assets/140448888/b58eb7db-0777-4a28-a827-865b2493f375" width="300" height="300">
 
 We demand standardizing the structure and format of healthcare data across various systems and platforms. By adopting a uniform data schema, healthcare organizations, providers, and systems can ensure seamless interoperability, accurate data sharing, and improved communication between different entities within the healthcare ecosystem. 
 
