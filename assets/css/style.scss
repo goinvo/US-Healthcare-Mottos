@@ -38,18 +38,16 @@ html {
 
 // }
 
-// .img-acu
-// {
-//   width: 300px;
-//   height: 300x;
-//   background-image:transparent url("/assets/gifs/1_DoNoHarm") center top no-repeat;
-//   background-size: 125%;
-// }
+.exp{visibility: hidden;}
 
-// .img-acu:hover
-// {
-//   background-image: url("/assets/gifs/1_DoNoHarm.gif");
-// }
+.static {
+	position: absolute;
+	background: white;
+   }
+  
+  .static:hover {
+	opacity: 0;
+   }
 
 body{
     box-sizing: border-box;
@@ -57,7 +55,7 @@ body{
 	  margin:0;
 	  padding: 0;
 	  font-family: 'Ysabeau Infant', sans-serif;
-		font-size: 18px;
+		font-size: 16px;
 		line-height:1.5;
 }
 img{
@@ -125,19 +123,19 @@ background: rgb(255, 255, 255);
 .projects {
 	background:#ffffff;
 }
-.projects a{
-}
-.projects .btn{
-  color:#F7FFF7;
-	background:#eb9486ff;
-	text-decoration:none;
-	padding:8px;
-	border-radius:8px;
-	display:inline-block;
-}
-.projects .btn:hover {
-	background:rgba(235,148,134,80%);
-}
+// .projects a{
+// }
+// .projects .btn{
+//   color:#F7FFF7;
+// 	background:#eb9486ff;
+// 	text-decoration:none;
+// 	padding:8px;
+// 	border-radius:8px;
+// 	display:inline-block;
+// }
+// .projects .btn:hover {
+// 	background:rgba(235,148,134,80%);
+// }
 
 .project-item {
 	overflow:hidden;

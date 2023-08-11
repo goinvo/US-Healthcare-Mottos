@@ -19,6 +19,7 @@ layout: home
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Amatic+SC&family=Ysabeau+Infant:wght@300&display=swap" rel="stylesheet">
 		<link rel="stylesheet" href="css/style.css">
+<script src="javascript.js"></script>
   </head>
 
   <!-- <div class="banner">
@@ -26,6 +27,13 @@ layout: home
    </div> -->
 
   <body>
+ <!-- ***********************  Test Hover yo  *********************** -->
+<!-- <img class="static" src="/assets/gifs/1_DoNoHarm.png">
+<div class="active">
+<img src="/assets/gifs/1_DoNoHarm.gif"> -->
+ <!-- ***********************  Test Hover yo  *********************** -->
+
+
     <main>
       <!-- ***********************  Principles Overview  *********************** -->
       <header>
@@ -36,7 +44,6 @@ layout: home
 			</header>
 
       <!-- ********************  Principles  ********************* -->
-<!-- <div class="img-acu" ></div> -->
 
       <section class="projects">
 			  <div class ="content-wrap divider">
@@ -82,7 +89,7 @@ layout: home
 					<section class="project-item">
 						<img src="/assets/gifs/5_ProtectAgainstCriminalizedUseOfHealthData.gif" alt="Protect Against Criminal Use of Health Data">
 						<h2>5. Protect Against Criminal Use of Health Data</h2>
-						<p>All sensitive data related to a patient's health, medical history, treatments, and other personal details remain confidential and protected from unauthorized access, disclosure, or use. It entails implementing strict privacy measures, secure data storage, and controlled access to medical records to prevent breaches and maintain patient trust.</p>
+						<p>According to HIPAA (Health Insurance Portability and Accountability Act), covered entities and their business associates are responsible for implementing appropriate safeguards to ensure the confidentiality, integrity, and availability of PHI, protecting it from unauthorized access, use, or disclosure for criminal purposes. This includes measures such as data encryption, access controls, security training, and regular risk assessments.</p>
 					</section>
 
 					<!--  P R I N C I P L E 6 -->
