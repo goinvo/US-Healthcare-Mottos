@@ -27,11 +27,6 @@ layout: home
    </div> -->
 
   <body>
- <!-- ***********************  Test Hover yo  *********************** -->
-<!-- <img class="static" src="/assets/gifs/1_DoNoHarm.png">
-<div class="active">
-<img src="/assets/gifs/1_DoNoHarm.gif"> -->
- <!-- ***********************  Test Hover yo  *********************** -->
 
 
     <main>
@@ -55,10 +50,8 @@ layout: home
 								<li>Responsible for...</li>
 							</ol>
 					
-					<!-- P R I N C I P L E 1 -->
-					 
+					<!-- P R I N C I P L E 1 --> 
 					<section class="project-item">
-
 						<img src="/assets/gifs/1_DoNoHarm.gif" alt="Do No Harm">
 						<h2>1. Do No Harm</h2>
 						<p>Primum non nocere (First, do no harm): This is a key principle in medical ethics and serves as a reminder to healthcare professionals that their primary responsibility is to avoid causing harm to patients.</p>
@@ -135,6 +128,7 @@ layout: home
 						<p>Individuals have the right to access, manage, and make decisions regarding the use and sharing of their own health information. Covered entities and their business associates places patients at the center of their healthcare journey, enabling them to grant or withhold consent for the collection, storage, and dissemination of their data.</p>
 					</section>
 
+
 					
 					<!-- End of Project block. -->
 					</div>
@@ -167,7 +161,7 @@ layout: home
 					 </div>
       </section>
 
-	
+
     </main>
   </body>
 </html>

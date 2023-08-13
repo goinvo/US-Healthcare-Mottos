@@ -26,18 +26,21 @@ html {
 	box-sizing:inherit;
 }
 
-// .banner {
-//   width: 1400px;
-//   height: 200px;
-//   margin-bottom: 40px;
-// }
+.main-nav {
+    display: inline-flex;
+}
+.flex-container > div {
+	background-color: #ffffff;
+	margin: 0px;
+	padding-inline: 20px;
+	font-size: 16px;
+  }    
+.push {
+	position: relative;
+    margin-left: auto;
+}
 
-//  img {
-// 	height: 100%;
-// 	width: 100%;
-
-// }
-
+    
 .exp{visibility: hidden;}
 
 .static {
@@ -61,6 +64,8 @@ body{
 img{
   width: 300px;
 }
+
+
 a{
 	color:#7e7f9aff;
 }
@@ -84,7 +89,7 @@ h2 {
 	margin-bottom:10px;
 }
 .content-wrap {
-	max-width: 800px;
+	max-width: 1000px;
 	width:100%;
 	margin: 0 auto;
 	padding:0px;

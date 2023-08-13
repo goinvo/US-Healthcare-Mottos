@@ -334,6 +334,12 @@ html { margin: 0; padding: 0; }
 
 *, *:before, *:after { box-sizing: inherit; }
 
+.main-nav { display: inline-flex; }
+
+.flex-container > div { background-color: #ffffff; margin: 0px; padding-inline: 20px; font-size: 16px; }
+
+.push { position: relative; margin-left: auto; }
+
 .exp { visibility: hidden; }
 
 .static { position: absolute; background: white; }
@@ -354,7 +360,7 @@ h2 { font-size: 40px; }
 
 h2 { font-family: 'Adobe-Jenson-Pro',Georgia,serif; font-size: 20px; font-weight: 300; margin-bottom: 10px; }
 
-.content-wrap { max-width: 800px; width: 100%; margin: 0 auto; padding: 0px; }
+.content-wrap { max-width: 1000px; width: 100%; margin: 0 auto; padding: 0px; }
 
 h3 { margin-bottom: 0; }
 
