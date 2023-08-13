@@ -10,6 +10,7 @@ Illustration process Figma Page URL: https://www.figma.com/file/FTTDzGmJzce4HFXe
 
 ### Webpage Files
 html: index.html
+
 css: /css/style.css
 
 illustrations: /assets/gifs
