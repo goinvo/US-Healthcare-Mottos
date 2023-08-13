@@ -28,19 +28,30 @@ html {
 
 .main-nav {
     display: inline-flex;
-}
+		position: relative;
+		flex-direction: row;
+		justify-content: center;
+		padding: 0 1rem;
+		text-decoration: none;
+		font-family: sans-serif;
+		-webkit-text-size-adjust: 100%;
+		box-sizing: border-box;
+	}
+
 .flex-container > div {
 	background-color: #ffffff;
 	margin: 0px;
 	padding-inline: 20px;
 	font-size: 16px;
+	font-weight: 300;
   }    
-.push {
+  
+.header-contact {
 	position: relative;
     margin-left: auto;
+	background-color: #ab5444;
 }
 
-    
 .exp{visibility: hidden;}
 
 .static {
@@ -63,6 +74,7 @@ body{
 }
 img{
   width: 300px;
+  
 }
 
 
@@ -74,10 +86,13 @@ a:hover{
 }
 h1{
   font-family: 'Adobe-Jenson-Pro',Georgia,serif;
+  display:flex;
+  align-items:flex-start;
 	font-size:30px;
   font-weight: 100;
 	line-height: 1;
   margin-bottom:30px;
+  margin-top:30px
 }
 h2{
 	font-size:40px;
@@ -218,3 +233,4 @@ padding:15px;
 	.contact-list a {
 		padding:7px;}
 }
+

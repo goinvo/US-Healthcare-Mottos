@@ -42,13 +42,6 @@ layout: home
 
       <section class="projects">
 			  <div class ="content-wrap divider">
-
-        <ol>
-								<li>Do No Harm</li>
-								<li>Universal Primary Care</li>
-								<li>Lead...</li>
-								<li>Responsible for...</li>
-							</ol>
 					
 					<!-- P R I N C I P L E 1 --> 
 					<section class="project-item">

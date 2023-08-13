@@ -272,31 +272,6 @@ table td { border: 1px solid #e8e8e8; }
 
 .post-link { display: block; font-size: 1.5rem; }
 
-/** Posts */
-.post-header { margin-bottom: 30px; }
-
-.post-title, .post-content h1 { font-size: 2.625rem; letter-spacing: -1px; line-height: 1.15; }
-
-@media screen and (min-width: 800px) { .post-title, .post-content h1 { font-size: 2.625rem; } }
-
-.post-content { margin-bottom: 30px; }
-
-.post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 { margin-top: 30px; }
-
-.post-content h2 { font-size: 1.75rem; }
-
-@media screen and (min-width: 800px) { .post-content h2 { font-size: 2rem; } }
-
-.post-content h3 { font-size: 1.375rem; }
-
-@media screen and (min-width: 800px) { .post-content h3 { font-size: 1.625rem; } }
-
-.post-content h4 { font-size: 1.25rem; }
-
-.post-content h5 { font-size: 1.125rem; }
-
-.post-content h6 { font-size: 1.0625rem; }
-
 .social-media-list, .pagination { display: table; margin: 0 auto; }
 
 .social-media-list li, .pagination li { float: left; margin: 5px 10px 5px 0; }
@@ -334,11 +309,11 @@ html { margin: 0; padding: 0; }
 
 *, *:before, *:after { box-sizing: inherit; }
 
-.main-nav { display: inline-flex; }
+.main-nav { display: inline-flex; position: relative; flex-direction: row; justify-content: center; padding: 0 1rem; text-decoration: none; font-family: sans-serif; -webkit-text-size-adjust: 100%; box-sizing: border-box; }
 
-.flex-container > div { background-color: #ffffff; margin: 0px; padding-inline: 20px; font-size: 16px; }
+.flex-container > div { background-color: #ffffff; margin: 0px; padding-inline: 20px; font-size: 16px; font-weight: 300; }
 
-.push { position: relative; margin-left: auto; }
+.header-contact { position: relative; margin-left: auto; background-color: #ab5444; }
 
 .exp { visibility: hidden; }
 
@@ -354,7 +329,7 @@ a { color: #7e7f9aff; }
 
 a:hover { text-decoration: none; }
 
-h1 { font-family: 'Adobe-Jenson-Pro',Georgia,serif; font-size: 30px; font-weight: 100; line-height: 1; margin-bottom: 30px; }
+h1 { font-family: 'Adobe-Jenson-Pro',Georgia,serif; display: flex; align-items: flex-start; font-size: 30px; font-weight: 100; line-height: 1; margin-bottom: 30px; margin-top: 30px; }
 
 h2 { font-size: 40px; }
 
@@ -403,5 +378,3 @@ footer { background: #7e7f9aff; color: #F7FFF7; background-size: 100%; }
 @media screen and (min-width: 750px) { header, footer { text-align: center; } .project-item img { float: left; margin-right: 30px; } .job-item { display: grid; grid-template-columns: 1fr 3fr; column-gap: 20px; } .contact-list { display: flex; justify-content: center; } }
 
 @media screen and (max-width: 749px) { h1 { font-size: 75px; line-height: 0.5; margin-bottom: 20px; } h2 { font-size: 40px; line-height: 1; } .contact-list a { padding: 7px; } }
-
-/*# sourceMappingURL=style.css.map */
