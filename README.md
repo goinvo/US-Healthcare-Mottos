@@ -2,7 +2,7 @@
 US Healthcare Principles-explanations and illustrations
 Core document and future URL: https://www.healthcareprinciples.org
 
-Chat GPT more detailed explainations of principles URL: https://www.dropbox.com/scl/fi/icivhlm5iczvonhewpa6n/US-Healthcare-Principles-Texts.gdoc?rlkey=o60y3l4ik3az97vl64bg37s8w&dl=0
+Detailed explainations and edited version of principles URL: https://www.dropbox.com/scl/fi/icivhlm5iczvonhewpa6n/US-Healthcare-Principles-Texts.gdoc?rlkey=o60y3l4ik3az97vl64bg37s8w&dl=0
 
 Illustration process Figma Page URL: https://www.figma.com/file/FTTDzGmJzce4HFXebroBZP/Carina-%40-GoInvo?type=design&node-id=1%3A3&mode=design&t=XTl47wsOfO7EFAw4-1
 
