@@ -6,6 +6,8 @@ COLOR PALETTE
 --cool-gray: #7e7f9aff;
 --seasalt: #f9f8f8ff;
 --almost white:#F7FFF7;
+
+Font----'Ysabeau Infant', sans-serif;
 */
 
 /* Global Styles
@@ -26,6 +28,7 @@ body{
 		line-height:1.5;
 }
 
+
 img{
   width: 300px;
   display: block;
@@ -43,8 +46,8 @@ a:hover{
 	text-decoration:none;
 }
 h1{
-	font-size:70px;
-	line-height: 1;
+	font-size:80px;
+	line-height:1;
 }
 h2{
 	font-size:30px;
@@ -54,15 +57,23 @@ h1,h2 {
 	font-weight:500;
 	margin:0;
 }
+
+
 .content-wrap {
 	max-width: 800px;
 	width:85%;
 	margin: 0 auto;
 	padding:60px;
+	
 }
 
+
 h3{
+	font-family: 'Amatic SC', cursive;
+	font-size:40px;
 	margin-bottom:0;
+	letter-spacing: 0.1em;
+	word-spacing: 5px;
 }
 
 .item-details h3+p {
@@ -90,7 +101,11 @@ background: #eb9486ff;
 }
 
 header h1 {
-	color:#ffffff;
+	color:#000000;
+	letter-spacing: 0.1rem;
+	word-spacing: 15px;
+	font-weight:500;
+	
 	}
 
 header p {
@@ -98,15 +113,23 @@ header p {
 	font-size:20px;
 	}
 
-/* Projects
+header img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+		  }
+
+/* Principles
 ----------------------------------*/
-.projects {
+.principles {
 	background:rgb(255, 255, 255);
 }
-.projects a{
+
+.principles a{
 	
 }
-.projects .btn{
+.principles .btn{
   color:#cb6c32;
 	background:rgb(255, 255, 255);
 	text-decoration:none;
@@ -124,7 +147,7 @@ header p {
 	  display:inline-block;
   }
 
-.projects .btn:hover {
+.principles .btn:hover {
 	background:rgba(235,148,134,80%);
 }
 
@@ -132,10 +155,22 @@ header p {
 	overflow:hidden;
 }
 
+.principle-item h3,h4 {
+	text-align: center;
+	}
+
 .principle-item h3 {
 	margin-top:0;
 }
 
+.principle-item p {
+	color: rgb(144, 144, 144);
+	  margin:0;
+	padding: 0;
+	font-family: 'Ysabeau Infant', sans-serif;
+	font-size: 15px;
+		line-height:2em;
+}
 /* Work Experience
 ----------------------------------*/
 .work-experience {
@@ -179,15 +214,9 @@ padding:15px;
 	header, footer {
 			text-align: center;
 	}
-.project-item img{
-	float:left;
-	margin-right: 30px;
-	}
-
-	.job-item {
-	display: grid;
-	grid-template-columns: 1fr 3fr;
-	column-gap: 20px;
+.principles-item img{
+	float:center;
+	margin-right: 2=30px;
 	}
 
 .contact-list {
@@ -196,12 +225,19 @@ padding:15px;
 	}
 }
 @media screen and (max-width:749px){
-	h1 {
-		font-size:75px;
-		line-height:0.5;
+	h1{
+		font-size:65px;
+		
+		line-height:1;
 		margin-bottom:20px;
 	}
-	
+	  
+	img{
+		width:300px;
+		float:center;
+		margin-right: 2=30px;
+		}
+
    h2{
 		 font-size:40px;
 			line-height:1
