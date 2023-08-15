@@ -37,7 +37,13 @@ img{
 	width: 50%;
 }
 
-
+.btn{
+	  background:rgb(255, 255, 255);
+	  text-decoration:none;
+	  padding:10px;
+	  border-radius:8px;
+	  display:inline-block;
+  }
 
 a{
 	color:#7e7f9aff;
@@ -67,7 +73,6 @@ h1,h2 {
 	
 }
 
-
 h3{
 	font-family: 'Amatic SC', cursive;
 	font-size:40px;
@@ -86,12 +91,28 @@ h3{
 
 .divider > section {
 		border-bottom:2px dashed #eb9486ff;
-	padding:25px 0;
+	padding:10px 0;
 }
 
 .divider > section:last-of-type{
 	border-style:none;
 }
+
+/* .floating-menu {
+    font-family: sans-serif;
+    background: #eb9486ff;
+    padding: 5px;;
+    width: 200px;
+    z-index: 100;
+    position: fixed;
+  }
+  .floating-menu a, 
+  .floating-menu h3 {
+    font-size: 1px;
+    display: block;
+    margin: 0 0.5em;
+    color: rgb(255, 255, 255);
+  } */
 
 
 /* Profile
@@ -108,9 +129,16 @@ header h1 {
 	
 	}
 
+header a {
+		color:#ffffff;
+		font-size:16px;
+		
+		}
+
 header p {
 	color:#ffffff;
-	font-size:20px;
+	font-size:16px;
+	text ;
 	}
 
 header img {
@@ -120,6 +148,47 @@ header img {
 		width: 50%;
 		  }
 
+ .invologo{
+			display: inline-block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 10%;
+			height: 10%;
+			  }
+
+/* Intro
+----------------------------------*/
+.intro p {
+	color: rgb(0, 0, 0);
+	  margin:0;
+	padding-top: 20px;
+	padding-bottom: 70px;
+	font-family: 'Ysabeau Infant', sans-serif;
+	font-size: 17px;
+		line-height:2em;
+}
+
+.intro .content-wrapintro{
+	max-width: 800px;
+	width:85%;
+	margin: 0 auto;
+	padding-top:60px;
+	padding-bottom: 0px;
+	padding-left:60px;
+	padding-right:60px;
+	
+}
+
+.content-wrapintro {
+	border-bottom:2px dashed #eb9486ff;
+    padding:25px 0;
+}
+.intro img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	  }
 /* Principles
 ----------------------------------*/
 .principles {
@@ -142,8 +211,8 @@ header img {
 	color:#cb6c32;
 	  background:rgb(255, 255, 255);
 	  text-decoration:none;
-	  padding:8px;
-	  border-radius:8px;
+	  padding:3px;
+	  border-radius:10px;
 	  display:inline-block;
   }
 
@@ -171,42 +240,80 @@ header img {
 	font-size: 15px;
 		line-height:2em;
 }
-/* Work Experience
+
+
+/* Conclusion
 ----------------------------------*/
-.work-experience {
-	background:#f3de8aff;
+
+.conclusion p {
+	color: rgb(0, 0, 0);
+	  margin:0;
+	padding-top: 0px;
+	padding-bottom: 10px;
+	font-family: 'Ysabeau Infant', sans-serif;
+	font-size: 17px;
+		line-height:2em;
 }
 
-
-/* Education
-----------------------------------*/
-.education {
-	background-image: url(../images/paper.JPG);
-background-size:cover;
-background-position:top right;
-	padding-bottom: 100px;
-}
-.education p {
-	width:60%;
+.conclusion .content-wrapconclusion{
+	max-width: 800px;
+	width:85%;
+	margin: 0 auto;
+	padding-top:30px;
+	padding-bottom: 30px;
+	padding-left:60px;
+	padding-right:60px;
+	
 }
 
-	/* COntact info
+.content-wrapconclusion {
+	border:2px dashed #eb9486ff;
+	border-radius: 10%;
+    padding:25px 0;
+}
+
+/* Team */
+.team .content-wrap{padding-top: 0;}
+
+	  .column {
+		background-color: #ffffff;
+		float: left;
+		width: 30%;
+		padding: 10px;
+		height: 300px; /* Should be removed. Only for demonstration */
+	  }
+	  
+	  /* Clear floats after the columns */
+	  .row:after {
+		content: "";
+		display: table;
+		clear: both;
+	  }
+
+	/* Footer
 ----------------------------------*/
 footer {
 background:  #7e7f9aff;
 	color:#F7FFF7;
 	background-size:100%;
-}
-.contact-list{
-	list-style-type:none;
-	padding:0;
+	padding-top: ;
 }
 
-.contact-list a {
-padding:15px;
-	display:inline-block;
-	color:#F7FFF7;
-}
+
+
+	footer a{
+			color:#F7FFF7;
+		}
+
+.footerbtn{
+		color:#cb6c32;
+		  background:rgb(255, 255, 255);
+		  text-decoration:none;
+		  padding:10px;
+		  border-radius:8px;
+		  display:inline-block;
+	  }
+
 
 /* Responsive
 ----------------------------------*/
@@ -238,6 +345,20 @@ padding:15px;
 		margin-right: 2=30px;
 		}
 
+	.intro img {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 100%;
+			  }	
+
+			  .column {
+				background-color: #ffffff;
+				float: left;
+				width: 60%;
+				padding: 10px;
+				height: 200px 
+			  }
    h2{
 		 font-size:40px;
 			line-height:1
