@@ -331,6 +331,7 @@ background:  #7e7f9aff;
 	justify-content: center;
 	}
 }
+
 @media screen and (max-width:749px){
 	h1{
 		font-size:65px;
@@ -339,6 +340,13 @@ background:  #7e7f9aff;
 		margin-bottom:20px;
 	}
 	  
+	.content-wrap {
+		max-width: 850px;
+		width:85%;
+		margin: 0 auto;
+		padding:60px;
+		
+	}
 	img{
 		width:100%;
 		float:center;
