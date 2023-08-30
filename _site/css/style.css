@@ -346,6 +346,7 @@ background:  #7e7f9aff;
 		font-size:50px;
 		line-height:0.8em;
 		margin-bottom:20px;
+		text-align: center;
 	}
 
 	h2{
@@ -361,7 +362,7 @@ background:  #7e7f9aff;
 		   word-spacing: 5px;
    }	
 
-
+   header p {text-align: center;}
 	  
 	.content-wrap {
 		max-width: 850px;
