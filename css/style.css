@@ -34,7 +34,7 @@ img{
   display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 50%;
+	width: 100%;
 }
 
 .btn{
@@ -91,7 +91,7 @@ h3{
 
 .divider > section {
 		border-bottom:2px dashed #eb9486ff;
-	padding:10px 0;
+	padding:50px 0;
 }
 
 .divider > section:last-of-type{
@@ -145,7 +145,7 @@ header img {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
-		width: 50%;
+		width: 100%;
 		  }
 
  .invologo{
@@ -187,7 +187,7 @@ header img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 70%;
+	width: 100%;
 	  }
 /* Principles
 ----------------------------------*/
