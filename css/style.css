@@ -24,7 +24,7 @@ body{
 	  margin:0;
 	  padding: 0;
 	  font-family: 'Ysabeau Infant', sans-serif;
-		font-size: 15px;
+		font-size: 20px;
 		line-height:1.5;
 }
 
@@ -66,7 +66,7 @@ h1,h2 {
 
 
 .content-wrap {
-	max-width: 800px;
+	max-width: 600px;
 	width:85%;
 	margin: 0 auto;
 	padding:60px;

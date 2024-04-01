@@ -1,6 +1,6 @@
-# US Healthcare Principles
+# US Healthcare Mottos
 
-US Healthcare Principles-explanations and illustrations URL: https://www.healthcareprinciples.org
+US Healthcare Mottos-explanations and illustrations URL: https://www.healthcaremottos.com/
 
 Core document and future URL:https://docs.google.com/document/d/15I89d4KX4LJkCVTPkB0sgTrO6oeu0Sn6jRtd1KZyu58/edit
 
@@ -28,5 +28,3 @@ illustrations: /assets/gifs
 9. Drug Possession is Legal
 10. One Data Schema
 11. Own Your Health Data
-
-
