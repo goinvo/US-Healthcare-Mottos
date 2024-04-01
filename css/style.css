@@ -362,14 +362,14 @@ background:  #7e7f9aff;
    header p {text-align: center;}
 	  
 	.content-wrap {
-		max-width: 850px;
+		max-width: 600px;
 		width:95%;
 		margin: 0 auto;
-		padding:30px;
+		padding:0 30px 30px;
 	}
 
 	.intro .content-wrapintro{
-		max-width: 850px;
+		max-width: 600px;
 		width:95%;
 		margin: 0 auto;
 		padding-top:60px;
@@ -389,7 +389,7 @@ background:  #7e7f9aff;
 			line-height:2em;
 	}
 	.conclusion .content-wrapconclusion{
-		max-width: 850px;
+		max-width: 600px;
 		width:95%;
 		margin: 0 auto;
 		padding-top:30px;
