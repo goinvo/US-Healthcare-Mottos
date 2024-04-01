@@ -24,7 +24,7 @@ body{
 	  margin:0;
 	  padding: 0;
 	  font-family: 'Ysabeau Infant', sans-serif;
-		font-size: 23px;
+		font-size: 25px;
 		line-height:1.5;
 }
 
@@ -164,8 +164,8 @@ header img {
 	padding-top: 20px;
 	padding-bottom: 70px;
 	font-family: 'Ysabeau Infant', sans-serif;
-	font-size: 17px;
-		line-height:2em;
+	font-size: 25px;
+		line-height:1.5em;
 }
 
 .intro .content-wrapintro{
@@ -237,7 +237,7 @@ header img {
 	  margin:0;
 	padding: 0;
 	font-family: 'Ysabeau Infant', sans-serif;
-	font-size: 23px;
+	font-size: 25px;
 		line-height:2em;
 }
 
